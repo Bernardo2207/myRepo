@@ -15,7 +15,5 @@ public class Main {
 	
 		
 		System.out.println("Area of the circle is: "+area);
-		System.out.println("Half Area of the circle is: "+area/2);
-
 	}
 }
